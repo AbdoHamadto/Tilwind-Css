@@ -4,7 +4,7 @@ const ProjectFour = () => {
         <div className='w-24 h-24 border-x-4 border-purple-800 border-y-transparent border-y-4 animate-spin-fast rounded-full'></div>
         <div>
           <div className="leo-border-1 absolute w-52 h-52 rounded-full bg-gradient-to-br from-cyan-500 to-indigo-500 opacity-[0.8] animate-spin3D-fast"></div>
-          <div className="leo-border-2 w-52 h-52 rounded-full bg-gradient-to-tl from-fuchsia-500 to-violet-500 opacity-[0.8] animate-spin3D-slow hover:animate-spin-fast"></div>
+          <div className="leo-border-2 w-52 h-52 rounded-full bg-gradient-to-tl from-fuchsia-500 to-violet-500 opacity-[0.8] animate-spin3D-slow"></div>
         </div>
         <div className='w-24 h-24 border-x-4 border-y-transparent border-y-4 border-purple-800 animate-spin-slow rounded-full'></div>
     </div>
